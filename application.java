@@ -1,4 +1,4 @@
-Add two numbers in java..
+
 public class application {
 
     public static int add(int x, int y) {
